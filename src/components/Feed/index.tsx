@@ -1,7 +1,8 @@
 import React from 'react';
-import { Tab } from 'styled-icons/material-outlined';
 
-// import { Container } from './styles';
+import Tweet from '../Tweet';
+
+import { Container, Tab, Tweets } from './styles';
 
 const Feed: React.FC = () => {
   return (
