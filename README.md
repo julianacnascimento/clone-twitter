@@ -1,3 +1,23 @@
+## Clone do Twitter
+
+Episódio de uma série feita pela @rocketseat que recria interfaces de apps com React.
+
+### Responsividade:
+
+#### Tela de Smartphone:
+
+![Screenshot](screenshots/print_smartphone.png)
+
+#### Tela de tablet (iPad for example):
+
+![Screenshot](screenshots/print_ipad.png)
+
+#### Tela da Web:
+
+![Screenshot](screenshots/print_web.png)
+
+## Abaixo segue as instruções padrão para o React:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -43,4 +63,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-![Screenshot](screenshots/print_smartphone.png)
